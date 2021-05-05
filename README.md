@@ -13,7 +13,7 @@ AddAnythingToRise listens for changes in Rise page content (Mutation Observer), 
 
 ## How to deploy
 
-AddAnythingToRise is a single JavaScript file with no dependencies, simply add it to the <head> of your published articulate project with a defer attribute:
+AddAnythingToRise is a single JavaScript file with no dependencies, simply add it to the head of your published articulate project with a defer attribute:
 
 <script type="text/javascript" src="addanythingtorise.js" defer></script>
 
